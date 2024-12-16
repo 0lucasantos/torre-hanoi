@@ -3,7 +3,15 @@
 Este documento descreve detalhadamente o funcionamento do código Assembly que implementa o jogo da Torre de Hanoi.
 
 ---
-
+## Colaboradores
+* Ana Luisa Feitosa
+* Lucas dos Santos
+---
+## Como rodar o código
+* Utilize um compilador online (https://www.tutorialspoint.com/compile_assembly_online.php)
+* Execute o codigo presente no repositorio pelo emulador
+* Verifique as saidas na tela 
+---
 ## Visão Geral
 O código apresenta uma implementação do problema da Torre de Hanoi em Assembly, utilizando chamadas recursivas para resolver o problema. Ele pede ao usuário o número de discos, valida a entrada e resolve o problema, exibindo os movimentos necessários para transferir os discos de uma torre para outra seguindo as regras do jogo.
 
@@ -179,7 +187,4 @@ mov [torre_destino], al
 - Converte os valores numéricos para ASCII antes de exibir.
 
 ---
-
-## Resumo
-Este código demonstra como implementar o algoritmo da Torre de Hanoi em Assembly, utilizando conceitos como recursão, manipulação de strings e interação com o usuário por meio de chamadas de sistema. Ele é um exemplo clássico de como resolver problemas recursivos em linguagens de baixo nível.
 
