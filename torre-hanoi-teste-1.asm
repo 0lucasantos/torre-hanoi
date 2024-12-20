@@ -1,3 +1,7 @@
+; Ana Luisa Feitosa Guimarães 
+; Lucas dos Santos da Silva 
+
+
 section .text
 
 global _start                        
